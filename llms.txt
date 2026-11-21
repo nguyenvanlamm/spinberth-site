@@ -1,0 +1,21 @@
+# Spinberth
+
+> Spinberth (on the App Store as "Spinberth: Bump & Clear Puzzle") is a calm 3D puzzle game for iPhone (iOS 15 or later). Cargo pods float at a zero-gravity orbital berth, each with one thruster pointing one way; tap a pod to launch it, and a blocked pod bumps the pod in its way instead. Clear the berth before the fuel runs out. Coming soon to the App Store.
+
+- Bump-turn: a blocked pod bumps the first pod in its path. A pod hit side-on turns a quarter-turn to face the bump; a row of pods in line passes the bump along and the last one is knocked out; two pods nose to nose cancel the bump.
+- Every tap uses one fuel. Clear the berth with fuel to spare for more stars, up to three. Running out costs nothing: the berth restarts at once.
+- Drag to turn the berth. Each pod's path flashes before it moves (bright = clear, striped = it will bump). Colour marks the axis: crimson, citron, ultramarine.
+- 120 berths in six chapters: First Berth, Cradle Lines, Nose to Nose, Anchored, Twin Pods and Full Dock.
+- Boosters: Undo (take back the last tap), Beacon (light up a pod to tap next), Fuel cell (+3 fuel; that berth then earns at most one star). They open at berths 5, 10 and 15.
+- Purchases: all 120 berths are free to play. Optional consumable packs: Undo Pack ($0.99, 10 Undo), Beacon Pack ($1.99, 6 Beacon), Fuel Pack ($1.99, 6 Fuel cell), Dock Crate ($4.99, 12 Undo + 10 Beacon + 10 Fuel cell). Packs are consumable: boosters stay on the device that bought them; a paid pack that did not arrive is delivered on the next launch. Restore purchases is in Settings.
+- No ads, no account, no analytics or tracking. Progress stays on the device and the game plays offline; only purchases talk to the App Store. English only.
+
+## Pages
+
+- [Home](https://nguyenvanlamm.github.io/spinberth-site/index.html.md): what the game is and how it plays
+- [Support](https://nguyenvanlamm.github.io/spinberth-site/support.html.md): contact, how to play, purchases and restoring, progress
+- [Privacy Policy](https://nguyenvanlamm.github.io/spinberth-site/privacy.html.md): what the game stores on the device and what it never collects
+
+## Optional
+
+- [Website](https://nguyenvanlamm.github.io/spinberth-site/): the HTML landing page
