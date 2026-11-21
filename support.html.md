@@ -16,8 +16,10 @@ nothing: try again at once. The rules are also in the game under Pause → ?.
 ## Purchases
 
 All 120 berths are free. The Supply depot sells optional booster packs (Undo Pack, Beacon Pack, Fuel Pack and Dock
-Crate); each is used up as you play, and boosters you bought stay in your stock until you use them. Bought something
-before, or on another device with the same store account? Open Settings → Restore purchases.
+Crate); each is used up as you play. Boosters you bought stay in your stock on the device that bought them until you
+use them; they do not move to another device and are removed if you delete the app. A pack that was paid for but did
+not arrive is delivered the next time you open the game. Settings → Restore purchases asks the App Store again;
+because every pack is consumable, it usually finds nothing to restore.
 
 ## Progress
 

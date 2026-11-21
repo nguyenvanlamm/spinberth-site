@@ -7,7 +7,7 @@
 - Drag to turn the berth. Each pod's path flashes before it moves (bright = clear, striped = it will bump). Colour marks the axis: crimson, citron, ultramarine.
 - 120 berths in six chapters: First Berth, Cradle Lines, Nose to Nose, Anchored, Twin Pods and Full Dock.
 - Boosters: Undo (take back the last tap), Beacon (light up a pod to tap next), Fuel cell (+3 fuel; that berth then earns at most one star). They open at berths 5, 10 and 15.
-- Purchases: all 120 berths are free to play. Optional consumable packs: Undo Pack ($0.99, 10 Undo), Beacon Pack ($1.99, 6 Beacon), Fuel Pack ($1.99, 6 Fuel cell), Dock Crate ($4.99, 12 Undo + 10 Beacon + 10 Fuel cell). Restore purchases is in Settings.
+- Purchases: all 120 berths are free to play. Optional consumable packs: Undo Pack ($0.99, 10 Undo), Beacon Pack ($1.99, 6 Beacon), Fuel Pack ($1.99, 6 Fuel cell), Dock Crate ($4.99, 12 Undo + 10 Beacon + 10 Fuel cell). Packs are consumable: boosters stay on the device that bought them; a paid pack that did not arrive is delivered on the next launch. Restore purchases is in Settings.
 - No ads, no account, no analytics or tracking. Progress stays on the device and the game plays offline; only purchases talk to the App Store. English only.
 
 ## Pages

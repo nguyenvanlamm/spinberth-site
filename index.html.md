@@ -30,7 +30,7 @@ At a glance: 120 berths, all free · No ads · No account · No tracking.
 - **Is Spinberth free?** Yes. All 120 berths are free to play. Optional booster packs cost $0.99 to $4.99. There is no subscription and nothing to unlock.
 - **Are there ads?** No. The game has no ads, no ad networks, no analytics and no account.
 - **What happens when I run out of fuel?** You try the berth again straight away and lose nothing. If you have them, a Fuel cell adds three fuel or Undo takes back your last tap.
-- **When and where can I play?** Spinberth is coming soon to the App Store for iPhone. It plays offline.
+- **When and where can I play?** Spinberth is coming soon to the App Store for iPhone with iOS 15 or later. It plays offline.
 
 [Support](https://nguyenvanlamm.github.io/spinberth-site/support.html) ·
 [Privacy Policy](https://nguyenvanlamm.github.io/spinberth-site/privacy.html)
